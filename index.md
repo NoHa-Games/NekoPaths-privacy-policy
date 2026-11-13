@@ -6,17 +6,17 @@
 
 This Privacy Policy explains how Neko Paths ("the App"), developed and published by [NoHa Games], handles information when you use the game.
 
-Slide is designed to work without requiring an account or collecting personal information.
+Neko Paths is designed to work without requiring an account or collecting personal information.
 
 ## 2. Information Collection
 
-Slide does not intentionally collect, transmit, or share personal information from its users.
+Neko Paths does not intentionally collect, transmit, or share personal information from its users.
 
 The App does not use advertising services, third-party analytics services, user registration or cloud-based gameplay storage.
 
 ## 3. Gameplay Progress and Local Storage
 
-Slide saves gameplay information locally on your device. This may include completed levels, best scores, star ratings, game settings and preferences.
+Neko Paths saves gameplay information locally on your device. This may include completed levels, best scores, star ratings, game settings and preferences.
 
 This information is not transmitted to our servers.
 
@@ -24,7 +24,7 @@ You can delete locally stored gameplay information by clearing the App's storage
 
 ## 4. Third-Party Services
 
-Slide does not intentionally integrate advertising or analytics services.
+Neko Paths does not intentionally integrate advertising or analytics services.
 
 The App may rely on standard Android operating system services to function.
 
@@ -34,7 +34,7 @@ Gameplay progress is stored locally on your device. We do not operate servers th
 
 ## 6. Children's Privacy
 
-Slide does not knowingly collect personal information from children or other users.
+Neko Paths does not knowingly collect personal information from children or other users.
 
 The App does not require users to provide personal information to play.
 
