@@ -1,4 +1,4 @@
-# Privacy Policy – Slide
+# Privacy Policy – Neko Paths
 
 **Effective date:** November 13, 2026
 
